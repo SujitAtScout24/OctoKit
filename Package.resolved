@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RequestKit",
+        "repositoryURL": "https://github.com/SujitAtScout24/RequestKit.git",
+        "state": {
+          "branch": null,
+          "revision": "88de4794a9347caf8a42e2e58e4c3fe220d0d14a",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
